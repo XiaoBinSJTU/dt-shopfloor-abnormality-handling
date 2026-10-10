@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this research reference implementation, please cite the associated paper."
+title: "Multi-dimensional Modeling and Abnormality Handling of Digital Twin Shop Floor: Core Algorithm Implementation"
+type: software
+authors:
+  - family-names: Xiao
+    given-names: Bin
+  - family-names: Qi
+    given-names: Qinglin
+  - family-names: Tao
+    given-names: Fei
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: "Multi-dimensional modeling and abnormality handling of digital twin shop floor"
+  authors:
+    - family-names: Xiao
+      given-names: Bin
+    - family-names: Qi
+      given-names: Qinglin
+    - family-names: Tao
+      given-names: Fei
+  journal: "Journal of Industrial Information Integration"
+  volume: 35
+  year: 2023
+  doi: 10.1016/j.jii.2023.100492
+  start: 100492
+url: "https://doi.org/10.1016/j.jii.2023.100492"

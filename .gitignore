@@ -1,0 +1,43 @@
+# Local review deliverables
+PUBLIC_RELEASE_REPORT.md
+PROFILE_LINK_SNIPPET.md
+
+# Private or experimental data
+Data/
+data/
+DataExperiment/
+results/
+outputs/
+logs/
+*.csv
+*.mat
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+
+# Model and serialized state
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.joblib
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors, temporary files, and local history
+.git/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+tmp/
